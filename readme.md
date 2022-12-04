@@ -1,5 +1,5 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="./bootstrap.css">
+<link rel="stylesheet" href="./devicon.css">
 
 # Incognito95
 `UI / UX Designer & Web Developer`
@@ -7,9 +7,6 @@
 </p>
 <a href="https://www.linkedin.com/in/daniel-pedersen-14a180168/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/daniel-pedersen-14a180168/" target="_blank" alt="Github">
-    <img src="https://badgen.net/badge/profile/:active/green/?icon=github">
 </a>
 <hr>
 
