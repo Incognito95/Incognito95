@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="../bootstrap.css">
-<link rel="stylesheet" href="../devicon.css">
+<link rel="stylesheet" href="./bootstrap.css">
+<link rel="stylesheet" href="./devicon.css">
 
 # Incognito95
 `UI / UX Designer & Web Developer`
