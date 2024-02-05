@@ -2,7 +2,7 @@
 
 # Incognito95
 `UI / UX Designer & Web Developer`
-<p>I'm a front end developer & web developer having worked in various companies over the years anywhere from startups to mid-size. Theirs a mix of projects on my profile, some are built from the ground up and others are built using frameworks by planning and designing all the way to solving real-life problems.
+<p>I'm a front end developer & web designer having worked in various companies over the years anywhere from startups to mid-size. Theirs a mix of projects on my profile, some are built from the ground up and others are built using frameworks by planning and designing all the way to solving real-life problems.
 </p>
 <a href="https://www.linkedin.com/in/daniel-pedersen-14a180168/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
